@@ -7,7 +7,7 @@ I also wanted it to be independent, so no external power so I looked into solar 
 Also in the time I got the idea to measure UV, and I wanted to measure it in independently (UV-A, UV-B, UV-C) and thats when dound that the AS7331 is the perfect choice, also I want to measure if its raining or not so I got the XKC-Y25-V  capacitive rain sensor, its a binary on/off digital signal so I had to use the PCF8574 I^2C GPIO expander to attach it to my bus.
 
 
-The buy phase was around 2026 March-April, also thats when I had lots of test so I couldnt to a lot of meaningful work around that time, but now its summer so im gonna make this work by around august-september (I hope so)
+The buy phase was around 2026 March-April, also thats when I had lots of test so I couldnt to a lot of meaningful work around that time, but now its summer so im gonna make this work by around august-september (I hope so), also I found that this was a big project, so I decided to first build the fan controller and desk controller and the weather node
 
 ˇˇˇ How its looking rn  ˇˇˇ
 
