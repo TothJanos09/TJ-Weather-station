@@ -14,3 +14,4 @@ Part list:
 - PCF8574 — I2C GPIO expander reading XKC signal
 
 - Using Home Assistant and the built in EspHome manager
+<img width="3264" height="2448" alt="20260707_163433(1)" src="https://github.com/user-attachments/assets/55ae142d-dd7b-4811-9a1a-3efe7ed46fff" />
